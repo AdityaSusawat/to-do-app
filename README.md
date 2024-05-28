@@ -1,6 +1,7 @@
 # ToDo App
 
 This is a simple ToDo application built with React. It allows users to add, delete, and manage their tasks. The application persists the ToDo items in the browser's local storage.
+Deployed link: https://sus-todoapp.netlify.app
 
 ## Features
 
